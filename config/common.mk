@@ -153,6 +153,7 @@ PRODUCT_PACKAGES += \
     Eleven \
     LockClock \
     OTAUpdater \
+    Themes \
     CyanogenSetupWizard \
     CMSettingsProvider \
     ExactCalculator
