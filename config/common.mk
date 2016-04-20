@@ -155,7 +155,9 @@ PRODUCT_PACKAGES += \
     Themes \
     CyanogenSetupWizard \
     CMSettingsProvider \
-    ExactCalculator
+    ExactCalculator \
+    LiveLockScreenService \
+    WeatherProvider
 
 # Exchange support
 PRODUCT_PACKAGES += \
